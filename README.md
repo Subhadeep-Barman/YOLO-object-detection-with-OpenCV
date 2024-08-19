@@ -63,6 +63,7 @@ python yolo_video.py --input videos/airport.mp4 --output output/airport_output.a
 **Screenshots:**
 
 - The video/GIF demonstrates YOLO’s capability to detect vehicles, people, and traffic lights.
+https://github.com/user-attachments/assets/9f87ec7a-8803-48ad-b61a-d5a74700570f
 
 **Limitations:**
 
